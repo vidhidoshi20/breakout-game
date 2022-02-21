@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/breakout-game/static/css/main.34b6e6b8.css",
+    "main.js": "/breakout-game/static/js/main.2d73374e.js",
+    "static/js/787.7de490d2.chunk.js": "/breakout-game/static/js/787.7de490d2.chunk.js",
+    "index.html": "/breakout-game/index.html",
+    "main.34b6e6b8.css.map": "/breakout-game/static/css/main.34b6e6b8.css.map",
+    "main.2d73374e.js.map": "/breakout-game/static/js/main.2d73374e.js.map",
+    "787.7de490d2.chunk.js.map": "/breakout-game/static/js/787.7de490d2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34b6e6b8.css",
+    "static/js/main.2d73374e.js"
+  ]
+}
